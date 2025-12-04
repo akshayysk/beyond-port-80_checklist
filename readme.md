@@ -27,8 +27,6 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 
 ### 6 Days Prior (Content Prep)
 - [ ] Create content for social media posts.
-- [ ] **(LINKEDIN PREP)** Draft the official LinkedIn post content *completely*.
-  - *Requirement:* The text must be ready to copy-paste immediately after the event. Leave placeholders only for specific photos.
 
 ### 5 Days Prior (Campaign Launch)
 - [ ] Post on Facebook, LinkedIn, Instagram, and Twitter with the **Makemypass registration link**.
@@ -44,7 +42,11 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 ### 1 Day Prior (Final Checks)
 - [ ] Check and confirm projector and microphones at the venue.
 - [ ] Check network connectivity at the venue.
-- [ ] Confirm Project Presenters are ready and their slides are loaded.
+- [ ] Confirm Project Presenters are ready and their slides are received.
+- [ ] Provide Live Stream Coordinator with full names and slides (`.ppt`/`.pptx`) for Speaker, TechBytes, and Project Presenters.
+- [ ] Request Event Agenta poster for social Media from Design Team
+- [ ] **(LINKEDIN PREP)** Draft the official LinkedIn post content *completely*.
+  - *Requirement:* The text must be ready to copy-paste immediately after the event. Leave placeholders only for specific photos.
 
 ---
 
@@ -52,19 +54,17 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 
 ### 2 Hours Before Start
 - [ ] Ensure the speaker is received and ready.
-- [ ] Provide Live Stream Coordinator with full names and slides (`.ppt`/`.pptx`) for Speaker, TechBytes, and Project Presenters.
 
-### 1 Hour Before Start
+### 30 Minutes Before Start
 - [ ] Check all microphones and ensure laptop connects to projector.
 - [ ] Check YouTube Live stream signal.
 - [ ] Set up Registration Desk with volunteers using the **Makemypass portal for check-in**.
 - [ ] **(CRITICAL)** Confirm volunteers to capture specific photos:
   - [ ] Speaker in action
-  - [ ] Attendees (candid)
+  - [ ] Attendees
   - [ ] Group Photo
-
-### 30 Minutes Before Start
 - [ ] Check input sound and video.
+- [ ] Share the Event Agenta poster on social Media
 
 ### At Event Start
 - [ ] Post the **Live Stream URL** on social media pages.
@@ -87,10 +87,7 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 
 ### Immediately After Event (The 1-Hour Sprint)
 - [ ] **(CRITICAL)** Send 2-3 selected event pictures to the Media Team.
-- [ ] **(EXECUTION)** Media Team to post the pre-drafted content on LinkedIn **within 1 hour** of the event conclusion.
-  - *Step 1:* Copy pre-drafted text.
-  - *Step 2:* Attach the 2-3 fresh photos.
-  - *Step 3:* Post.
+- [ ] **(EXECUTION)** Media Team to post the pre-drafted content on LinkedIn **within 1 hour** of the event conclusion with the pictures taken at the event.
 
 ### 1 Day After Event (Reporting)
 - [ ] **Compile Event Report for KeralaTechnology.com:**
