@@ -104,4 +104,4 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 - [ ] Send **Consolation Email** to non-attendees with the youtube video link and presentation slides.
 
 ### 3 Days After Event (Closure)
-- [ ] Send **Thank You Email** to the speaker along with the Feedback OVerview.
+- [ ] Send **Thank You Email** to the speaker along with the Feedback Overview.
