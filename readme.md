@@ -74,13 +74,13 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 
 ## Event Flow
 
-- [ ] **5:00 PM:** Welcome Note (Go Live).
-- [ ] **5:05 PM:** Tech Bytes (Student Session).
-- [ ] **5:15 PM:** Speaker Intro & Main Session.
-- [ ] **6:15 PM:** Q & A
-- [ ] **6:30 PM:** Quiz
-- [ ] **6:45 PM:** Project Presentations (Participants who selected "Yes" for presentation while registering).
-- [ ] **7:00 PM:** Speaker Felicitation & Conclusion.
+- [ ] Welcome Note (Go Live)
+- [ ] Tech Bytes - Student Session (5-10mins Approx)
+- [ ] Speaker Intro & Main Session ( Min 45mins)
+- [ ] Q & A session (10 - 15 mins approx)
+- [ ] Quiz (10-15 mins Optional)
+- [ ] Project Presentations (Participants who selected "Yes" for presentation while registering)
+- [ ] Speaker Felicitation & Conclusion.
 
 ---
 
