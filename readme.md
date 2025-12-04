@@ -91,7 +91,7 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 
 ### 1 Day After Event (Reporting)
 - [ ] **Compile Event Report for KeralaTechnology.com:**
-  - *Purpose:* To release a blog post on the keralatechnology.com website regarding this session.
+  - *Purpose:* To release a blog post on the keralatechnology.com website regarding the session.
   - *Content Required:*
     - [ ] Event Poster
     - [ ] Speaker Name, Designation, and Topic
