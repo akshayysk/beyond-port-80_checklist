@@ -52,7 +52,7 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 
 ## In-Event Timeline
 
-### 2 Hours Before Start
+### 1 Hours Before Start
 - [ ] Ensure the speaker is received and ready.
 
 ### 30 Minutes Before Start
