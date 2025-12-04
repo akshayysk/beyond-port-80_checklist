@@ -33,11 +33,12 @@ This checklist outlines the standard operating procedure for running a Port 80 s
 - [ ] Send write-up and assets to the **Port 80 Core Group** for cross-promotion.
 
 ### 4 Days Prior (Venue Notify)
-- [ ] Inform building reception and security guards about the event.
+
 
 ### 2 Days Prior (Logistics & Comms)
 - [ ] Send email blast to the **FAYA Community** including the **Makemypass registration link**.
 - [ ] **(PROJECTS)** Filter Makemypass registrant list for "Yes" on Project Presentations. **Call and email** participants to confirm their slot and collect their slides.
+- [ ] Inform building reception and security guards about the event.
 
 ### 1 Day Prior (Final Checks)
 - [ ] Check and confirm projector and microphones at the venue.
